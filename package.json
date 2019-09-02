@@ -1,0 +1,29 @@
+{
+  "name": "createNoteCLI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sifat009/createNoteCLI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sifat009/createNoteCLI/issues"
+  },
+  "homepage": "https://github.com/sifat009/createNoteCLI#readme",
+  "dependencies": {
+    "yargs": "^14.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.3.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "nodemon": "^1.19.1"
+  }
+}
